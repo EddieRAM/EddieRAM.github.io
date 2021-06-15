@@ -1,9 +1,22 @@
-. {
+* {
+  font-family: Montserrat;
+  font-size: 14px;
   margin: 0px;
   padding: 0px;
 }
+#eduPhoto {
+  display: flex;
+  margin: 20px 10px;
+}
+
+h2 {
+  margin-top: 20px;
+  text-align: center;
+}
 
 header {
+  display: flex;
+  justify-content: center;
   background-color: gray;
 }
 
